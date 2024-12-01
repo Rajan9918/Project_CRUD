@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.web.bind.annotation.*;
 
+//category controller
 @RestController
 @RequestMapping("/api/categories")
 public class CategoryController {
